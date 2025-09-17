@@ -2,7 +2,6 @@
 
 ## 영화 리뷰 게시판 프로젝트!
 
-[Netview Web 💡](URL)
 <br>
 [Netview Notion 📓](https://www.notion.so/WEB-6-328d84216a9b4e3396c3408f5abea9f4?pvs=4)
 <br>
